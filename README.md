@@ -1,20 +1,25 @@
-### Hi there 👋
+# 👨🏻‍💻 Evklidus
+## Flutter developer from Russia 🇷🇺
+
+---
+  
+### 📱 Contacts
++ **Telegram:** [@erik_q](https://t.me/erik_q)   
++ **E-mail:** [minasoverik@gmail.com](mailto:minasoverik@gmail.com)
++ **CodersRank:** [profile.codersrank.io/user/evklidus](https://profile.codersrank.io/user/evklidus)
 
 ### 📈 Scores & Stats  
   
 [![evklidus Github Stats](https://github-readme-stats.vercel.app/api?username=evklidus&count_private=true&theme=default&show_icons=true)](https://github.com/evklidus)
 
-<!--
-**evklidus/evklidus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⭐ Open Source Projects  
+  
+  
+[![flutter_bounce_widget](https://github-readme-stats.vercel.app/api/pin/?username=evklidus&repo=flutter_bounce_widget)](https://github.com/evklidus/flutter_bounce_widget)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Tech stack  
+  
++ [![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue)](https://dart.dev/)  
++ [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)](http://flutter.dev/)
++ [![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)](https://swift.org/)
++ [![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)](https://kotlinlang.org/)
