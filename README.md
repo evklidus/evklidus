@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Evklidus
-## Flutter developer from Russia 🇷🇺
+## Flutter developer 🌎
 
 ---
   
