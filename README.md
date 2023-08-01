@@ -23,4 +23,3 @@
 + [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)](http://flutter.dev/)
 + [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](http://python.org/)
 + [![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)](https://swift.org/)
-+ [![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)](https://kotlinlang.org/)
