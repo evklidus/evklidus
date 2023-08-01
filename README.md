@@ -12,11 +12,6 @@
   
 [![evklidus Github Stats](https://github-readme-stats.vercel.app/api?username=evklidus&count_private=true&theme=default&show_icons=true)](https://github.com/evklidus)
 
-### ⭐ Open Source Projects  
-  
-  
-[![flutter_bounce_widget](https://github-readme-stats.vercel.app/api/pin/?username=evklidus&repo=flutter_bounce_widget)](https://github.com/evklidus/flutter_bounce_widget)
-
 ### ⚙️ Tech stack  
   
 + [![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue)](https://dart.dev/)  
