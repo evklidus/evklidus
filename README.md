@@ -4,7 +4,7 @@
 ---
   
 ### 📱 Contacts
-+ **Telegram:** [@erik_q](https://t.me/erik_q)   
++ **Telegram:** [@evklidus](https://t.me/evklidus)   
 + **E-mail:** [minasoverik@gmail.com](mailto:minasoverik@gmail.com)
 + **CodersRank:** [profile.codersrank.io/user/evklidus](https://profile.codersrank.io/user/evklidus)
 
